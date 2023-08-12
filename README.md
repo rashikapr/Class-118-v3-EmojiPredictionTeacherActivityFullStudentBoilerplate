@@ -1,1 +1,1 @@
-# Class-118-v3-EmojiPredictionTeacherActivityFullStudentBoilerplate
+# PRO-C118-Reference-Code
